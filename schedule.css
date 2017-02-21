@@ -1,0 +1,20 @@
+tr{
+  text-align: left;
+  width:60px;
+}
+th{
+  text-decoration: underline;
+  weight: bold;
+}
+body{
+  background-color: #FFFFFF;
+  /* I found the color palate here: http://www.colourlovers.com/palette/132637/Odd_but_trendy */
+}
+tr.dark{
+  background-color: #680148;
+  color: #FFFFFF;
+}
+td:hover{
+  background-color: #000000;
+  color: #E0EFF1
+}
